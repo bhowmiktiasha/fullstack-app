@@ -19,7 +19,7 @@ const App = () => {
         await new Promise((resolve) => setTimeout(resolve, 2000));
 
         const data = await response.json();
-        setEvents(data.mockEvents);
+        setEvents(data);
         setLoading(false);
       } catch (error) {
         console.error("Error fetching data:", error);
