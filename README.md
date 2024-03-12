@@ -1,9 +1,9 @@
-This is a simple Fullstack sports application created with React , node , express , mongo , css. 
-**Features -**
-1. The user can select a maximum of 3 events.
+This is a simple Fullstack sports application created with React , node , express , mongo , css. <br/>
+**Features -** <br/>
+1. The user can select a maximum of 3 events. <br/>
 2. The user cannot select an event which is conflicting with the timings of
 already selected events since the user cannot participate in more than one
-event at the same time.
+event at the same time. <br/>
 
 # Getting Started with Create React App
 
